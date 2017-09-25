@@ -1,0 +1,87 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{190, 88}, {175, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "show_address_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Show Address",
+          "uuid" : "F7CBC453-E9BD-4098-9A2E-B6C6964AE329",
+          "class" : "Button",
+          "name" : "show_address_button",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{190, 128}, {150, 39}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "89F2D6F8-DE5F-4AAC-8773-EF5E2A4C19E4",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "name_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{190, 175}, {150, 39}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "89F2D6F8-DE5F-4AAC-8773-EF5E2A4C19E4",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "name" : "city_label"
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{190, 222}, {150, 39}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "89F2D6F8-DE5F-4AAC-8773-EF5E2A4C19E4",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "name" : "country_label"
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
